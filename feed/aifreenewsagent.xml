@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Nov 2025 05:24:00 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Nov 2025 05:25:19 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2025 23:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 23:22:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>会写剧本、能凹人设，还顺带站上领奖台，这数字人包“会”的</title>
-      <link>https://www.qbitai.com/2025/11/350038.html</link>
-      <description>&lt;![CDATA[会写剧本、能凹人设，还顺带站上领奖台，这数字人包“会”的]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 04:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350038.html</guid>
+      <title>Introducing Nested Learning: A new ML paradigm for continual learning</title>
+      <link>https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/</link>
+      <description>&lt;![CDATA[Introducing Nested Learning: A new ML paradigm for continual learning]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 17:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>2025年人工智能产业及赋能新型工业化创新任务揭榜挂帅工作启动</title>
-      <link>https://www.qbitai.com/2025/11/350028.html</link>
-      <description>&lt;![CDATA[2025年人工智能产业及赋能新型工业化创新任务揭榜挂帅工作启动]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 02:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350028.html</guid>
+      <title>百度无人车孵化的卡车，冲刺港股智能重卡第一股</title>
+      <link>https://www.qbitai.com/2025/11/350251.html</link>
+      <description>&lt;![CDATA[百度无人车孵化的卡车，冲刺港股智能重卡第一股]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350251.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Kimi K2 Thinking突袭！智能体&amp;推理能力超GPT-5，网友：再次缩小开源闭源差距</title>
-      <link>https://www.qbitai.com/2025/11/349957.html</link>
-      <description>&lt;![CDATA[Kimi K2 Thinking突袭！智能体&amp;推理能力超GPT-5，网友：再次缩小开源闭源差距]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 01:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349957.html</guid>
+      <title>马斯克涨完工资一高兴，把FSD对华开放时间自曝了</title>
+      <link>https://www.qbitai.com/2025/11/350160.html</link>
+      <description>&lt;![CDATA[马斯克涨完工资一高兴，把FSD对华开放时间自曝了]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350160.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>马斯克1万亿美元薪酬方案获批！</title>
-      <link>https://www.qbitai.com/2025/11/349887.html</link>
-      <description>&lt;![CDATA[马斯克1万亿美元薪酬方案获批！]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 01:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349887.html</guid>
+      <title>陶哲轩力推AlphaEvolve：解决67个不同数学问题，多个难题中超越人类最优解</title>
+      <link>https://www.qbitai.com/2025/11/350141.html</link>
+      <description>&lt;![CDATA[陶哲轩力推AlphaEvolve：解决67个不同数学问题，多个难题中超越人类最优解]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 09:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350141.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>小马智行彭军：有司机的Robotaxi毫无意义，辅助驾驶和无人驾驶是两回事</title>
-      <link>https://www.qbitai.com/2025/11/349881.html</link>
-      <description>&lt;![CDATA[小马智行彭军：有司机的Robotaxi毫无意义，辅助驾驶和无人驾驶是两回事]]&gt;</description>
-      <pubDate>Fri, 07 Nov 2025 00:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/349881.html</guid>
+      <title>硅谷祛眼袋，海淀求嫩肤：中外科技老哥都在偷偷卷颜值</title>
+      <link>https://www.qbitai.com/2025/11/350116.html</link>
+      <description>&lt;![CDATA[硅谷祛眼袋，海淀求嫩肤：中外科技老哥都在偷偷卷颜值]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 08:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350116.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI+如何赋能百行千业：2025百度世界大会前瞻</title>
+      <link>https://www.qbitai.com/2025/11/350112.html</link>
+      <description>&lt;![CDATA[AI+如何赋能百行千业：2025百度世界大会前瞻]]&gt;</description>
+      <pubDate>Fri, 07 Nov 2025 08:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350112.html</guid>
       <category>AI</category>
     </item>
   </channel>
